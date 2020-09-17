@@ -4,6 +4,6 @@
     </head>
     
     <body>
-        <?PHP echo shell_exec("python cours.py"); ?>
+        <?PHP echo shell_exec("python script.py"); ?>
     </body>
 </html>
